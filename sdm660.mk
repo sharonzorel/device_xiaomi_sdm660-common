@@ -260,7 +260,8 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.sh \
     init.recovery.qcom.rc \
     init.target.rc \
-    ueventd.qcom.rc
+    ueventd.qcom.rc \
+    init.performance_level.rc
 
 # IRQ
 PRODUCT_COPY_FILES += \
